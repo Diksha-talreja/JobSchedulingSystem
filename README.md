@@ -39,14 +39,12 @@ JOBSCHEDULINGSYSTEM/
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/JobSchedulingSystem.git
-Navigate to the src folder:
 
-bash
-Copy code
-cd JobSchedulingSystem/src
-Compile and run:
+2. Navigate to the src folder:
+   ```bash
+   cd JobSchedulingSystem/src
 
-bash
-Copy code
-javac JobSchedulingSwing.java
-java JobSchedulingSwing
+3. Compile and run:
+   ```bash
+   javac JobSchedulingSwing.java
+   java JobSchedulingSwing
