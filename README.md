@@ -38,7 +38,7 @@ JOBSCHEDULINGSYSTEM/
 ### 🖥️ Option 1: Using Command Line
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/JobSchedulingSystem.git
+   git clone https://github.com/Diksha-talreja/JobSchedulingSystem.git
 
 2. Navigate to the src folder:
    ```bash
